@@ -21,9 +21,13 @@
 
   ## Installation
 
+  ![image of SVG logo created](<./images/Screenshot 2023-11-18 161021.png>)
+
   To install necessary dependencies, run the following command:
 
     Once you have the repository cloned onto your local machine you will need to navigate to your terminal and run npm install to install all necessary dependecies.  After you will run node index.js to get prompted on how you want the logo to look.
+
+    - link to github repository: https://github.com/Marc01710/svg-logo-maker
 
   ## Usage
 
@@ -31,7 +35,7 @@
 
   Screen-share video of the svg-logo-maker Application:
 
-    [svg-logo-maker]
+    https://drive.google.com/file/d/1jy_XUH1DuVVSo-CwO7lkQky44Dg45Nig/view
   ## License
 
   This project is licensed under the MIT License.
